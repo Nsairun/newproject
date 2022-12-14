@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.project {
+    margin: 10%;
+    background-color: #f4a460;
+}
+
+.namesearch {
+    text-align: center;
+    margin: 10%;
+}
+
+.name {
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border: 5%;
+    border-radius: 5px;
+    color: #1b2929;
+    margin: 5%;
+}
+
+.age {
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    box-shadow: 5%;
+    margin: 5%;
+}
+
+/* search {
+    height: 5px;
+    width: 15px; */
+
+.user1{
+    width: 50%; 
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.abrevcircle {
+    text-align: center;
+    padding: 15px;
+    background: #715353 ;
+    height: 100%;
+    margin: 7px;
+    color: black;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+
+}
+
+.circle {
+    background-color: #1b2929;
+    background-size: cover;
+    height: 35px;
+    width: 40px;
+    border-radius: 50%;
+    color: #fff;
+    padding: 10%;
+}
+
+.side {
+    color: #1b2929;
+    height: 25px;
+    width: 25px;
+    margin-left: 90%;
+}
